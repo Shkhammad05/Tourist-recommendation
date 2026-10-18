@@ -1,4 +1,4 @@
-Screenshot dekh kar lag raha hai ki saare points ek saath chipak gaye hain. Markdown formatting me headings, line breaks aur code blocks sahi se # 🌍 AI-Powered Tourist Recommendation System
+# 🌍 AI-Powered Tourist Recommendation System
 
 A production-grade, local-first hybrid recommendation engine built with **FastAPI**, **Qdrant**, and **Sentence-Transformers**.
 
